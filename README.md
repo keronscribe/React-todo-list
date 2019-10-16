@@ -1,6 +1,13 @@
 # React-todo-list
+
+## 連結
+
+[五子棋小遊戲](https://keronscribe.github.io/React-Gomoku/dist/index.html)
+
 ## 介紹
-這是 [Lidemy 程式導師實驗計畫](https://github.com/Lidemy/mentor-program-3rd)第 21 週作業 1。
+簡易的五子棋小遊戲，有檢視先前棋譜功能。
+
+這是 [Lidemy 程式導師實驗計畫](https://github.com/Lidemy/mentor-program-3rd)第 21 週的第二個作業。
 
 ## 技術
 - React
